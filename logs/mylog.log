@@ -1,0 +1,941 @@
+[INFO ] 2024-03-07 17:25:30.787 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-07 17:25:30.844 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-07 17:25:33.339 [main] Stepdef - url open
+[INFO ] 2024-03-07 17:25:33.966 [main] Stepdef - enter email and password
+[INFO ] 2024-03-07 17:25:36.344 [main] Stepdef - Clicked on SignIn Button
+[WARN ] 2024-03-07 17:25:36.509 [main] Stepdef - Test passed: Login feature :Page Link text matched.
+[INFO ] 2024-03-07 17:25:36.922 [main] Stepdef - browser closed
+[INFO ] 2024-03-07 17:37:23.181 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-07 17:37:23.310 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-07 17:37:25.240 [main] Stepdef - url open
+[INFO ] 2024-03-07 17:37:25.939 [main] Stepdef - enter email and password
+[INFO ] 2024-03-07 17:37:28.307 [main] Stepdef - Clicked on SignIn Button
+[WARN ] 2024-03-07 17:37:28.467 [main] Stepdef - Test passed: Login feature :Page Link text matched.
+[INFO ] 2024-03-07 17:37:28.966 [main] Stepdef - browser closed
+[INFO ] 2024-03-07 17:38:53.684 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-07 17:38:53.779 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-07 17:38:55.727 [main] Stepdef - url open
+[INFO ] 2024-03-07 17:38:56.144 [main] Stepdef - enter email and password
+[INFO ] 2024-03-07 17:38:58.490 [main] Stepdef - Clicked on SignIn Button
+[WARN ] 2024-03-07 17:38:58.699 [main] Stepdef - Test passed: Login feature :Page Link text matched.
+[INFO ] 2024-03-07 17:38:59.197 [main] Stepdef - browser closed
+[INFO ] 2024-03-07 17:40:58.266 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-07 17:40:58.369 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-07 17:41:00.748 [main] Stepdef - url open
+[INFO ] 2024-03-07 17:41:01.175 [main] Stepdef - enter email and password
+[INFO ] 2024-03-07 17:41:03.523 [main] Stepdef - Clicked on SignIn Button
+[WARN ] 2024-03-07 17:41:03.639 [main] Stepdef - Test Failed: Login feature- page Link text  not matched.
+[INFO ] 2024-03-07 17:43:35.873 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-07 17:43:35.975 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-07 17:43:38.018 [main] Stepdef - url open
+[INFO ] 2024-03-07 17:43:38.635 [main] Stepdef - enter email and password
+[INFO ] 2024-03-07 17:43:41.291 [main] Stepdef - Clicked on SignIn Button
+[WARN ] 2024-03-07 17:43:41.452 [main] Stepdef - Test passed: Login feature :Page Link text matched.
+[INFO ] 2024-03-07 17:43:41.863 [main] Stepdef - browser closed
+[INFO ] 2024-03-07 17:45:05.342 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-07 17:45:05.435 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-07 17:45:07.231 [main] Stepdef - url open
+[INFO ] 2024-03-07 17:45:07.832 [main] Stepdef - enter email and password
+[INFO ] 2024-03-07 17:45:10.126 [main] Stepdef - Clicked on SignIn Button
+[WARN ] 2024-03-07 17:45:10.180 [main] Stepdef - Test passed: Login feature :Page Link text matched.
+[INFO ] 2024-03-07 17:45:10.547 [main] Stepdef - browser closed
+[INFO ] 2024-03-07 17:49:22.757 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-07 17:49:22.860 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-07 17:49:25.020 [main] Stepdef - url open
+[INFO ] 2024-03-07 17:49:25.430 [main] Stepdef - enter email and password
+[INFO ] 2024-03-07 17:49:27.901 [main] Stepdef - Clicked on SignIn Button
+[WARN ] 2024-03-07 17:49:28.022 [main] Stepdef - Test passed: Login feature :Page Link text matched.
+[INFO ] 2024-03-07 17:49:28.536 [main] Stepdef - browser closed
+[INFO ] 2024-03-07 17:50:32.400 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-07 17:50:32.481 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-07 17:50:34.486 [main] Stepdef - url open
+[INFO ] 2024-03-07 17:50:35.125 [main] Stepdef - enter email and password
+[INFO ] 2024-03-07 17:50:37.789 [main] Stepdef - Clicked on SignIn Button
+[WARN ] 2024-03-07 17:50:37.876 [main] Stepdef - Test Failed: Login feature- page Link text  not matched.
+[INFO ] 2024-03-07 17:55:49.759 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-07 17:55:49.854 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-07 17:55:51.978 [main] Stepdef - url open
+[INFO ] 2024-03-07 17:55:52.611 [main] Stepdef - enter email and password
+[INFO ] 2024-03-07 17:55:54.979 [main] Stepdef - Clicked on SignIn Button
+[WARN ] 2024-03-07 17:55:55.129 [main] Stepdef - Test passed: Login feature :Page Link text matched.
+[INFO ] 2024-03-07 17:55:55.538 [main] Stepdef - browser closed
+[INFO ] 2024-03-07 17:55:57.144 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-07 17:55:57.146 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-07 17:55:58.915 [main] Stepdef - url open
+[INFO ] 2024-03-07 18:23:05.355 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-07 18:23:05.392 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-07 18:23:07.520 [main] Stepdef - url open
+[INFO ] 2024-03-07 18:23:07.695 [main] Stepdef - enter email and password
+[INFO ] 2024-03-07 18:23:09.761 [main] Stepdef - Clicked on SignIn Button
+[WARN ] 2024-03-07 18:23:09.795 [main] Stepdef - Test passed: Login feature :Page Link text matched.
+[INFO ] 2024-03-07 18:23:10.088 [main] Stepdef - browser closed
+[INFO ] 2024-03-08 14:27:41.501 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-08 14:27:41.588 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-08 14:27:43.614 [main] Stepdef - url open
+[INFO ] 2024-03-08 14:27:44.086 [main] Stepdef - enter email and password
+[INFO ] 2024-03-08 14:27:46.477 [main] Stepdef - Clicked on SignIn Button
+[WARN ] 2024-03-08 14:27:46.588 [main] Stepdef - Test passed: Login feature :Page Link text matched.
+[INFO ] 2024-03-08 14:27:46.989 [main] Stepdef - browser closed
+[INFO ] 2024-03-08 14:42:27.966 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-08 14:42:28.049 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-08 14:42:29.729 [main] Stepdef - url open
+[WARN ] 2024-03-08 14:42:29.753 [main] Stepdef - Test passed: HomeAddToCart feature :Page Title matched.
+[INFO ] 2024-03-08 14:44:58.843 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-08 14:44:58.966 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-08 14:45:00.633 [main] Stepdef - url open
+[WARN ] 2024-03-08 14:45:00.659 [main] Stepdef - Test passed: HomeAddToCart feature :Page Title matched.
+[INFO ] 2024-03-08 14:48:27.190 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-08 14:48:27.290 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-08 14:48:28.814 [main] Stepdef - url open
+[WARN ] 2024-03-08 14:48:28.833 [main] Stepdef - Test passed: HomeAddToCart feature :Page Title matched.
+[INFO ] 2024-03-08 14:48:29.334 [main] Stepdef - browser closed
+[INFO ] 2024-03-08 14:49:05.800 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-08 14:49:05.874 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-08 14:49:07.527 [main] Stepdef - url open
+[WARN ] 2024-03-08 14:49:07.553 [main] Stepdef - Test passed: HomeAddToCart feature :Page Title matched.
+[INFO ] 2024-03-08 14:49:08.001 [main] Stepdef - browser closed
+[INFO ] 2024-03-08 15:09:18.529 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-08 15:09:18.612 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-08 15:09:20.360 [main] Stepdef - url open
+[WARN ] 2024-03-08 15:09:20.390 [main] Stepdef - Test passed: HomeAddToCart feature :Page Title matched.
+[INFO ] 2024-03-08 15:09:20.803 [main] Stepdef - browser closed
+[INFO ] 2024-03-08 15:09:22.317 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-08 15:09:22.319 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-08 15:09:23.903 [main] Stepdef - url open
+[INFO ] 2024-03-08 15:13:11.121 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-08 15:13:12.999 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-08 15:14:32.868 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-08 15:14:34.659 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-08 15:18:02.740 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-08 15:18:02.860 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-08 15:18:04.328 [main] Stepdef - url open
+[WARN ] 2024-03-08 15:18:04.357 [main] Stepdef - Test passed: HomeAddToCart feature :Page Title matched.
+[INFO ] 2024-03-08 15:18:04.844 [main] Stepdef - browser closed
+[INFO ] 2024-03-08 15:18:06.499 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-08 15:18:06.501 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-08 15:18:07.820 [main] Stepdef - url open
+[INFO ] 2024-03-08 15:23:31.331 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-08 15:23:31.410 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-08 15:23:33.211 [main] Stepdef - url open
+[WARN ] 2024-03-08 15:23:33.233 [main] Stepdef - Test passed: HomeAddToCart feature :Page Title matched.
+[INFO ] 2024-03-08 15:23:33.648 [main] Stepdef - browser closed
+[INFO ] 2024-03-08 15:23:35.189 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-08 15:23:35.192 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-08 15:23:36.869 [main] Stepdef - url open
+[INFO ] 2024-03-08 15:27:57.101 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-08 15:27:57.176 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-08 15:27:58.926 [main] Stepdef - url open
+[WARN ] 2024-03-08 15:27:58.948 [main] Stepdef - Test passed: HomeAddToCart feature :Page Title matched.
+[INFO ] 2024-03-08 15:27:59.335 [main] Stepdef - browser closed
+[INFO ] 2024-03-08 15:28:00.806 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-08 15:28:00.807 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-08 15:28:02.233 [main] Stepdef - url open
+[INFO ] 2024-03-08 15:40:56.626 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-08 15:40:56.709 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-08 15:41:08.441 [main] Stepdef - url open
+[WARN ] 2024-03-08 15:41:08.476 [main] Stepdef - Test passed: HomeAddToCart feature :Page Title matched.
+[INFO ] 2024-03-08 15:41:09.008 [main] Stepdef - browser closed
+[INFO ] 2024-03-08 15:41:10.608 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-08 15:41:10.609 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-08 15:41:20.000 [main] Stepdef - url open
+[INFO ] 2024-03-08 15:41:20.207 [main] Stepdef - Clicked on search btn
+[INFO ] 2024-03-08 15:41:22.435 [main] Stepdef - Enter Laptop text and clicked
+[WARN ] 2024-03-08 15:41:22.526 [main] Stepdef - Product name matched
+[INFO ] 2024-03-08 15:47:26.756 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-08 15:47:26.831 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-08 15:47:45.566 [main] Stepdef - url open
+[WARN ] 2024-03-08 15:47:45.590 [main] Stepdef - Test passed: HomeAddToCart feature :Page Title matched.
+[INFO ] 2024-03-08 15:47:46.092 [main] Stepdef - browser closed
+[INFO ] 2024-03-08 15:47:47.725 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-08 15:47:47.726 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-08 15:47:57.137 [main] Stepdef - url open
+[INFO ] 2024-03-08 15:47:57.351 [main] Stepdef - Clicked on search btn
+[INFO ] 2024-03-08 15:47:59.802 [main] Stepdef - Enter Laptop text and clicked
+[WARN ] 2024-03-08 15:47:59.888 [main] Stepdef - Product name matched
+[INFO ] 2024-03-08 15:48:11.869 [main] Stepdef - Clicked on Product
+[INFO ] 2024-03-08 15:57:52.237 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-08 15:57:52.343 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-08 15:57:53.860 [main] Stepdef - url open
+[WARN ] 2024-03-08 15:57:53.875 [main] Stepdef - Test passed: HomeAddToCart feature :Page Title matched.
+[INFO ] 2024-03-08 15:57:54.313 [main] Stepdef - browser closed
+[INFO ] 2024-03-08 15:57:55.862 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-08 15:57:55.872 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-08 15:57:57.191 [main] Stepdef - url open
+[INFO ] 2024-03-08 15:57:57.305 [main] Stepdef - Clicked on search btn
+[INFO ] 2024-03-08 15:57:58.475 [main] Stepdef - Enter Laptop text and clicked
+[WARN ] 2024-03-08 15:57:58.553 [main] Stepdef - Product name matched
+[INFO ] 2024-03-08 15:57:59.867 [main] Stepdef - Clicked on Product
+[WARN ] 2024-03-08 15:58:00.252 [main] Stepdef - Product name on add to cart page matched
+[INFO ] 2024-03-08 15:58:02.366 [main] Stepdef - Add to cart btn clicked
+[INFO ] 2024-03-08 16:00:16.687 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-08 16:00:16.765 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-08 16:00:18.141 [main] Stepdef - url open
+[WARN ] 2024-03-08 16:00:18.152 [main] Stepdef - Test passed: HomeAddToCart feature :Page Title matched.
+[INFO ] 2024-03-08 16:00:18.517 [main] Stepdef - browser closed
+[INFO ] 2024-03-08 16:00:20.043 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-08 16:00:20.046 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-08 16:00:21.353 [main] Stepdef - url open
+[INFO ] 2024-03-08 16:00:21.447 [main] Stepdef - Clicked on search btn
+[INFO ] 2024-03-08 16:00:22.553 [main] Stepdef - Enter Laptop text and clicked
+[WARN ] 2024-03-08 16:00:22.630 [main] Stepdef - Product name matched
+[INFO ] 2024-03-08 16:00:23.807 [main] Stepdef - Clicked on Product
+[WARN ] 2024-03-08 16:00:24.014 [main] Stepdef - Product name on add to cart page matched
+[INFO ] 2024-03-08 16:00:25.488 [main] Stepdef - Add to cart btn clicked
+[INFO ] 2024-03-08 16:00:25.489 [main] Stepdef - 1
+[INFO ] 2024-03-08 16:02:51.414 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-08 16:02:51.474 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-08 16:02:52.986 [main] Stepdef - url open
+[WARN ] 2024-03-08 16:02:53.011 [main] Stepdef - Test passed: HomeAddToCart feature :Page Title matched.
+[INFO ] 2024-03-08 16:02:53.525 [main] Stepdef - browser closed
+[INFO ] 2024-03-08 16:02:55.086 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-08 16:02:55.089 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-08 16:02:56.385 [main] Stepdef - url open
+[INFO ] 2024-03-08 16:02:56.500 [main] Stepdef - Clicked on search btn
+[INFO ] 2024-03-08 16:02:57.900 [main] Stepdef - Enter Laptop text and clicked
+[WARN ] 2024-03-08 16:02:57.978 [main] Stepdef - Product name matched
+[INFO ] 2024-03-08 16:02:59.286 [main] Stepdef - Clicked on Product
+[WARN ] 2024-03-08 16:02:59.603 [main] Stepdef - Product name on add to cart page matched
+[INFO ] 2024-03-08 16:03:01.352 [main] Stepdef - Add to cart btn clicked
+[INFO ] 2024-03-08 16:05:45.496 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-08 16:05:45.569 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-08 16:05:47.031 [main] Stepdef - url open
+[WARN ] 2024-03-08 16:05:47.047 [main] Stepdef - Test passed: HomeAddToCart feature :Page Title matched.
+[INFO ] 2024-03-08 16:05:47.433 [main] Stepdef - browser closed
+[INFO ] 2024-03-08 16:05:48.941 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-08 16:05:48.943 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-08 16:05:50.250 [main] Stepdef - url open
+[INFO ] 2024-03-08 16:05:50.350 [main] Stepdef - Clicked on search btn
+[INFO ] 2024-03-08 16:05:51.590 [main] Stepdef - Enter Laptop text and clicked
+[WARN ] 2024-03-08 16:05:51.684 [main] Stepdef - Product name matched
+[INFO ] 2024-03-08 16:05:53.216 [main] Stepdef - Clicked on Product
+[WARN ] 2024-03-08 16:05:53.359 [main] Stepdef - Product name on add to cart page matched
+[INFO ] 2024-03-08 16:05:55.105 [main] Stepdef - Add to cart btn clicked
+[INFO ] 2024-03-08 16:06:42.327 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-08 16:06:42.402 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-08 16:06:43.842 [main] Stepdef - url open
+[WARN ] 2024-03-08 16:06:43.871 [main] Stepdef - Test passed: HomeAddToCart feature :Page Title matched.
+[INFO ] 2024-03-08 16:06:44.266 [main] Stepdef - browser closed
+[INFO ] 2024-03-08 16:06:45.814 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-08 16:06:45.816 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-08 16:06:47.263 [main] Stepdef - url open
+[INFO ] 2024-03-08 16:06:47.440 [main] Stepdef - Clicked on search btn
+[INFO ] 2024-03-08 16:06:48.569 [main] Stepdef - Enter Laptop text and clicked
+[WARN ] 2024-03-08 16:06:48.657 [main] Stepdef - Product name matched
+[INFO ] 2024-03-08 16:06:50.114 [main] Stepdef - Clicked on Product
+[WARN ] 2024-03-08 16:06:50.306 [main] Stepdef - Product name on add to cart page matched
+[INFO ] 2024-03-08 16:06:51.882 [main] Stepdef - Add to cart btn clicked
+[INFO ] 2024-03-08 16:09:51.471 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-08 16:09:51.544 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-08 16:09:53.073 [main] Stepdef - url open
+[WARN ] 2024-03-08 16:09:53.087 [main] Stepdef - Test passed: HomeAddToCart feature :Page Title matched.
+[INFO ] 2024-03-08 16:09:53.490 [main] Stepdef - browser closed
+[INFO ] 2024-03-08 16:09:55.210 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-08 16:09:55.214 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-08 16:09:56.610 [main] Stepdef - url open
+[INFO ] 2024-03-08 16:09:56.707 [main] Stepdef - Clicked on search btn
+[INFO ] 2024-03-08 16:09:57.590 [main] Stepdef - Enter Laptop text and clicked
+[WARN ] 2024-03-08 16:09:57.642 [main] Stepdef - Product name matched
+[INFO ] 2024-03-08 16:09:58.950 [main] Stepdef - Clicked on Product
+[WARN ] 2024-03-08 16:09:59.152 [main] Stepdef - Product name on add to cart page matched
+[INFO ] 2024-03-08 16:10:00.706 [main] Stepdef - Add to cart btn clicked
+[INFO ] 2024-03-08 16:10:42.555 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-08 16:10:42.630 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-08 16:10:44.489 [main] Stepdef - url open
+[WARN ] 2024-03-08 16:10:44.503 [main] Stepdef - Test passed: HomeAddToCart feature :Page Title matched.
+[INFO ] 2024-03-08 16:10:44.848 [main] Stepdef - browser closed
+[INFO ] 2024-03-08 16:10:46.495 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-08 16:10:46.498 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-08 16:10:48.253 [main] Stepdef - url open
+[INFO ] 2024-03-08 16:10:48.451 [main] Stepdef - Clicked on search btn
+[INFO ] 2024-03-08 16:10:49.654 [main] Stepdef - Enter Laptop text and clicked
+[WARN ] 2024-03-08 16:10:49.761 [main] Stepdef - Product name matched
+[INFO ] 2024-03-08 16:10:51.284 [main] Stepdef - Clicked on Product
+[WARN ] 2024-03-08 16:10:51.339 [main] Stepdef - Product name on add to cart page matched
+[INFO ] 2024-03-08 16:10:52.969 [main] Stepdef - Add to cart btn clicked
+[INFO ] 2024-03-08 16:11:36.841 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-08 16:11:36.915 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-08 16:11:38.657 [main] Stepdef - url open
+[WARN ] 2024-03-08 16:11:38.684 [main] Stepdef - Test passed: HomeAddToCart feature :Page Title matched.
+[INFO ] 2024-03-08 16:11:39.123 [main] Stepdef - browser closed
+[INFO ] 2024-03-08 16:11:40.670 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-08 16:11:40.674 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-08 16:11:42.182 [main] Stepdef - url open
+[INFO ] 2024-03-08 16:11:42.317 [main] Stepdef - Clicked on search btn
+[INFO ] 2024-03-08 16:11:43.318 [main] Stepdef - Enter Laptop text and clicked
+[WARN ] 2024-03-08 16:11:43.379 [main] Stepdef - Product name matched
+[INFO ] 2024-03-08 16:11:44.497 [main] Stepdef - Clicked on Product
+[WARN ] 2024-03-08 16:11:44.799 [main] Stepdef - Product name on add to cart page matched
+[INFO ] 2024-03-08 16:11:46.202 [main] Stepdef - Add to cart btn clicked
+[INFO ] 2024-03-08 16:17:25.330 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-08 16:17:25.403 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-08 16:17:26.779 [main] Stepdef - url open
+[WARN ] 2024-03-08 16:17:26.793 [main] Stepdef - Test passed: HomeAddToCart feature :Page Title matched.
+[INFO ] 2024-03-08 16:17:27.194 [main] Stepdef - browser closed
+[INFO ] 2024-03-08 16:17:28.568 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-08 16:17:28.570 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-08 16:17:29.875 [main] Stepdef - url open
+[INFO ] 2024-03-08 16:17:29.990 [main] Stepdef - Clicked on search btn
+[INFO ] 2024-03-08 16:17:31.183 [main] Stepdef - Enter Laptop text and clicked
+[WARN ] 2024-03-08 16:17:31.268 [main] Stepdef - Product name matched
+[INFO ] 2024-03-08 16:17:32.980 [main] Stepdef - Clicked on Product
+[WARN ] 2024-03-08 16:17:33.123 [main] Stepdef - Product name on add to cart page matched
+[INFO ] 2024-03-08 16:17:34.916 [main] Stepdef - Add to cart btn clicked
+[INFO ] 2024-03-08 16:19:45.150 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-08 16:19:45.232 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-08 16:19:46.887 [main] Stepdef - url open
+[WARN ] 2024-03-08 16:19:46.905 [main] Stepdef - Test passed: HomeAddToCart feature :Page Title matched.
+[INFO ] 2024-03-08 16:19:47.291 [main] Stepdef - browser closed
+[INFO ] 2024-03-08 16:19:48.882 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-08 16:19:48.884 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-08 16:19:50.177 [main] Stepdef - url open
+[INFO ] 2024-03-08 16:19:50.282 [main] Stepdef - Clicked on search btn
+[INFO ] 2024-03-08 16:19:51.420 [main] Stepdef - Enter Laptop text and clicked
+[WARN ] 2024-03-08 16:19:51.509 [main] Stepdef - Product name matched
+[INFO ] 2024-03-08 16:19:52.554 [main] Stepdef - Clicked on Product
+[WARN ] 2024-03-08 16:19:52.908 [main] Stepdef - Product name on add to cart page matched
+[INFO ] 2024-03-08 16:19:54.857 [main] Stepdef - Add to cart btn clicked
+[INFO ] 2024-03-08 16:24:33.175 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-08 16:24:33.277 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-08 16:24:35.097 [main] Stepdef - url open
+[WARN ] 2024-03-08 16:24:35.156 [main] Stepdef - Test passed: HomeAddToCart feature :Page Title matched.
+[INFO ] 2024-03-08 16:24:35.677 [main] Stepdef - browser closed
+[INFO ] 2024-03-08 16:24:37.346 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-08 16:24:37.352 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-08 16:24:38.737 [main] Stepdef - url open
+[INFO ] 2024-03-08 16:24:38.825 [main] Stepdef - Clicked on search btn
+[INFO ] 2024-03-08 16:24:39.887 [main] Stepdef - Enter Laptop text and clicked
+[WARN ] 2024-03-08 16:24:39.968 [main] Stepdef - Product name matched
+[INFO ] 2024-03-08 16:24:41.258 [main] Stepdef - Clicked on Product
+[WARN ] 2024-03-08 16:24:41.574 [main] Stepdef - Product name on add to cart page matched
+[INFO ] 2024-03-08 16:24:43.176 [main] Stepdef - Add to cart btn clicked
+[INFO ] 2024-03-08 16:26:17.648 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-08 16:26:17.729 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-08 16:26:19.344 [main] Stepdef - url open
+[WARN ] 2024-03-08 16:26:19.364 [main] Stepdef - Test passed: HomeAddToCart feature :Page Title matched.
+[INFO ] 2024-03-08 16:26:19.784 [main] Stepdef - browser closed
+[INFO ] 2024-03-08 16:26:21.306 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-08 16:26:21.309 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-08 16:26:22.777 [main] Stepdef - url open
+[INFO ] 2024-03-08 16:26:22.928 [main] Stepdef - Clicked on search btn
+[INFO ] 2024-03-08 16:26:24.075 [main] Stepdef - Enter Laptop text and clicked
+[WARN ] 2024-03-08 16:26:24.132 [main] Stepdef - Product name matched
+[INFO ] 2024-03-08 16:26:25.291 [main] Stepdef - Clicked on Product
+[WARN ] 2024-03-08 16:26:25.599 [main] Stepdef - Product name on add to cart page matched
+[INFO ] 2024-03-08 16:26:27.148 [main] Stepdef - Add to cart btn clicked
+[INFO ] 2024-03-08 16:29:03.910 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-08 16:29:03.980 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-08 16:29:05.384 [main] Stepdef - url open
+[WARN ] 2024-03-08 16:29:05.396 [main] Stepdef - Test passed: HomeAddToCart feature :Page Title matched.
+[INFO ] 2024-03-08 16:29:05.807 [main] Stepdef - browser closed
+[INFO ] 2024-03-08 16:29:07.473 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-08 16:29:07.476 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-08 16:29:08.941 [main] Stepdef - url open
+[INFO ] 2024-03-08 16:29:09.102 [main] Stepdef - Clicked on search btn
+[INFO ] 2024-03-08 16:29:10.357 [main] Stepdef - Enter Laptop text and clicked
+[WARN ] 2024-03-08 16:29:10.444 [main] Stepdef - Product name matched
+[INFO ] 2024-03-08 16:29:11.740 [main] Stepdef - Clicked on Product
+[WARN ] 2024-03-08 16:29:12.098 [main] Stepdef - Product name on add to cart page matched
+[INFO ] 2024-03-08 16:29:13.657 [main] Stepdef - Add to cart btn clicked
+[INFO ] 2024-03-08 16:30:46.217 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-08 16:30:46.306 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-08 16:30:48.312 [main] Stepdef - url open
+[WARN ] 2024-03-08 16:30:48.334 [main] Stepdef - Test passed: HomeAddToCart feature :Page Title matched.
+[INFO ] 2024-03-08 16:30:48.869 [main] Stepdef - browser closed
+[INFO ] 2024-03-08 16:30:50.333 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-08 16:30:50.335 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-08 16:30:51.813 [main] Stepdef - url open
+[INFO ] 2024-03-08 16:30:51.989 [main] Stepdef - Clicked on search btn
+[INFO ] 2024-03-08 16:30:53.317 [main] Stepdef - Enter Laptop text and clicked
+[WARN ] 2024-03-08 16:30:53.409 [main] Stepdef - Product name matched
+[INFO ] 2024-03-08 16:30:55.013 [main] Stepdef - Clicked on Product
+[WARN ] 2024-03-08 16:30:57.098 [main] Stepdef - Product name on add to cart page matched
+[INFO ] 2024-03-08 16:30:57.287 [main] Stepdef - Add to cart btn clicked
+[WARN ] 2024-03-08 16:30:57.354 [main] Stepdef - Checkout page name not matched
+[INFO ] 2024-03-08 16:33:49.459 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-08 16:33:49.531 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-08 16:33:51.284 [main] Stepdef - url open
+[WARN ] 2024-03-08 16:33:51.311 [main] Stepdef - Test passed: HomeAddToCart feature :Page Title matched.
+[INFO ] 2024-03-08 16:33:51.746 [main] Stepdef - browser closed
+[INFO ] 2024-03-08 16:33:53.215 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-08 16:33:53.218 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-08 16:33:54.672 [main] Stepdef - url open
+[INFO ] 2024-03-08 16:33:54.803 [main] Stepdef - Clicked on search btn
+[INFO ] 2024-03-08 16:33:55.913 [main] Stepdef - Enter Laptop text and clicked
+[WARN ] 2024-03-08 16:33:55.994 [main] Stepdef - Product name matched
+[INFO ] 2024-03-08 16:33:56.999 [main] Stepdef - Clicked on Product
+[WARN ] 2024-03-08 16:33:59.088 [main] Stepdef - Product name on add to cart page matched
+[INFO ] 2024-03-08 16:33:59.274 [main] Stepdef - Add to cart btn clicked
+[WARN ] 2024-03-08 16:33:59.330 [main] Stepdef - Checkout page name not matched
+[INFO ] 2024-03-08 16:34:57.043 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-08 16:34:57.126 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-08 16:34:58.742 [main] Stepdef - url open
+[WARN ] 2024-03-08 16:34:58.770 [main] Stepdef - Test passed: HomeAddToCart feature :Page Title matched.
+[INFO ] 2024-03-08 16:34:59.274 [main] Stepdef - browser closed
+[INFO ] 2024-03-08 16:35:00.877 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-08 16:35:00.883 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-08 16:35:02.393 [main] Stepdef - url open
+[INFO ] 2024-03-08 16:35:02.598 [main] Stepdef - Clicked on search btn
+[INFO ] 2024-03-08 16:35:03.789 [main] Stepdef - Enter Laptop text and clicked
+[WARN ] 2024-03-08 16:35:03.885 [main] Stepdef - Product name matched
+[INFO ] 2024-03-08 16:35:05.415 [main] Stepdef - Clicked on Product
+[WARN ] 2024-03-08 16:35:07.503 [main] Stepdef - Product name on add to cart page matched
+[INFO ] 2024-03-08 16:35:07.720 [main] Stepdef - Add to cart btn clicked
+[INFO ] 2024-03-09 12:41:11.807 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-09 12:41:11.898 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-09 12:41:13.648 [main] Stepdef - url open
+[WARN ] 2024-03-09 12:41:13.664 [main] Stepdef - Test passed: HomeAddToCart feature :Page Title matched.
+[INFO ] 2024-03-09 12:41:14.013 [main] Stepdef - browser closed
+[INFO ] 2024-03-09 12:41:15.327 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-09 12:41:15.330 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-09 12:41:16.837 [main] Stepdef - url open
+[INFO ] 2024-03-09 12:41:16.978 [main] Stepdef - Clicked on search btn
+[INFO ] 2024-03-09 12:41:18.214 [main] Stepdef - Enter Laptop text and clicked
+[WARN ] 2024-03-09 12:41:18.301 [main] Stepdef - Product name matched
+[INFO ] 2024-03-09 12:41:19.696 [main] Stepdef - Clicked on Product
+[WARN ] 2024-03-09 12:41:21.776 [main] Stepdef - Product name on add to cart page matched
+[INFO ] 2024-03-09 12:41:21.978 [main] Stepdef - Add to cart btn clicked
+[WARN ] 2024-03-09 12:41:23.062 [main] Stepdef - Item added to cart alert match not match
+[INFO ] 2024-03-09 12:43:59.801 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-09 12:43:59.866 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-09 12:44:01.226 [main] Stepdef - url open
+[WARN ] 2024-03-09 12:44:01.239 [main] Stepdef - Test passed: HomeAddToCart feature :Page Title matched.
+[INFO ] 2024-03-09 12:44:01.622 [main] Stepdef - browser closed
+[INFO ] 2024-03-09 12:44:03.186 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-09 12:44:03.188 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-09 12:44:04.755 [main] Stepdef - url open
+[INFO ] 2024-03-09 12:44:04.846 [main] Stepdef - Clicked on search btn
+[INFO ] 2024-03-09 12:44:07.553 [main] Stepdef - Enter Laptop text and clicked
+[WARN ] 2024-03-09 12:44:07.635 [main] Stepdef - Product name matched
+[INFO ] 2024-03-09 12:44:09.467 [main] Stepdef - Clicked on Product
+[WARN ] 2024-03-09 12:44:11.538 [main] Stepdef - Product name on add to cart page matched
+[INFO ] 2024-03-09 12:44:11.727 [main] Stepdef - Add to cart btn clicked
+[WARN ] 2024-03-09 12:44:12.777 [main] Stepdef - Item added to cart alert match
+[WARN ] 2024-03-09 12:44:12.818 [main] Stepdef - Checkout page name not matched
+[INFO ] 2024-03-09 12:50:14.384 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-09 12:50:14.469 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-09 12:50:16.844 [main] Stepdef - url open
+[WARN ] 2024-03-09 12:50:16.864 [main] Stepdef - Test passed: HomeAddToCart feature :Page Title matched.
+[INFO ] 2024-03-09 12:50:17.213 [main] Stepdef - browser closed
+[INFO ] 2024-03-09 12:50:18.645 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-09 12:50:18.649 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-09 12:50:20.088 [main] Stepdef - url open
+[INFO ] 2024-03-09 12:50:20.221 [main] Stepdef - Clicked on search btn
+[INFO ] 2024-03-09 12:50:21.711 [main] Stepdef - Enter Laptop text and clicked
+[WARN ] 2024-03-09 12:50:21.810 [main] Stepdef - Product name matched
+[INFO ] 2024-03-09 12:50:22.985 [main] Stepdef - Clicked on Product
+[WARN ] 2024-03-09 12:50:25.085 [main] Stepdef - Product name on add to cart page matched
+[INFO ] 2024-03-09 12:50:25.284 [main] Stepdef - Add to cart btn clicked
+[WARN ] 2024-03-09 12:50:26.426 [main] Stepdef - Item added to cart alert match not match
+[INFO ] 2024-03-09 12:52:40.288 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-09 12:52:40.364 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-09 12:52:42.490 [main] Stepdef - url open
+[WARN ] 2024-03-09 12:52:42.514 [main] Stepdef - Test passed: HomeAddToCart feature :Page Title matched.
+[INFO ] 2024-03-09 12:52:42.985 [main] Stepdef - browser closed
+[INFO ] 2024-03-09 12:52:44.562 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-09 12:52:44.566 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-09 12:52:46.400 [main] Stepdef - url open
+[INFO ] 2024-03-09 12:52:46.592 [main] Stepdef - Clicked on search btn
+[INFO ] 2024-03-09 12:52:48.034 [main] Stepdef - Enter Laptop text and clicked
+[WARN ] 2024-03-09 12:52:48.126 [main] Stepdef - Product name matched
+[INFO ] 2024-03-09 12:52:49.814 [main] Stepdef - Clicked on Product
+[WARN ] 2024-03-09 12:52:51.900 [main] Stepdef - Product name on add to cart page matched
+[INFO ] 2024-03-09 12:52:52.089 [main] Stepdef - Add to cart btn clicked
+[WARN ] 2024-03-09 12:52:54.164 [main] Stepdef - Item added to cart alert match
+[INFO ] 2024-03-09 12:54:00.379 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-09 12:54:00.478 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-09 12:54:02.294 [main] Stepdef - url open
+[WARN ] 2024-03-09 12:54:02.322 [main] Stepdef - Test passed: HomeAddToCart feature :Page Title matched.
+[INFO ] 2024-03-09 12:54:02.744 [main] Stepdef - browser closed
+[INFO ] 2024-03-09 12:54:04.220 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-09 12:54:04.224 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-09 12:54:05.623 [main] Stepdef - url open
+[INFO ] 2024-03-09 12:54:05.726 [main] Stepdef - Clicked on search btn
+[INFO ] 2024-03-09 12:54:07.059 [main] Stepdef - Enter Laptop text and clicked
+[WARN ] 2024-03-09 12:54:07.145 [main] Stepdef - Product name matched
+[INFO ] 2024-03-09 12:54:08.588 [main] Stepdef - Clicked on Product
+[WARN ] 2024-03-09 12:54:10.685 [main] Stepdef - Product name on add to cart page matched
+[INFO ] 2024-03-09 12:54:10.888 [main] Stepdef - Add to cart btn clicked
+[WARN ] 2024-03-09 12:54:12.935 [main] Stepdef - Item added to cart alert match
+[INFO ] 2024-03-09 12:59:58.661 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-09 12:59:58.725 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-09 13:00:21.888 [main] Stepdef - url open
+[WARN ] 2024-03-09 13:00:21.913 [main] Stepdef - Test passed: HomeAddToCart feature :Page Title matched.
+[INFO ] 2024-03-09 13:00:22.441 [main] Stepdef - browser closed
+[INFO ] 2024-03-09 13:00:23.889 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-09 13:00:23.893 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-09 13:00:27.849 [main] Stepdef - url open
+[INFO ] 2024-03-09 13:00:29.060 [main] Stepdef - Clicked on search btn
+[INFO ] 2024-03-09 13:00:31.485 [main] Stepdef - Enter Laptop text and clicked
+[WARN ] 2024-03-09 13:00:32.639 [main] Stepdef - Product name matched
+[INFO ] 2024-03-09 13:00:34.505 [main] Stepdef - Clicked on Product
+[WARN ] 2024-03-09 13:00:36.593 [main] Stepdef - Product name on add to cart page matched
+[INFO ] 2024-03-09 13:00:37.806 [main] Stepdef - Add to cart btn clicked
+[WARN ] 2024-03-09 13:00:39.883 [main] Stepdef - Item added to cart alert match
+[INFO ] 2024-03-09 13:05:58.330 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-09 13:05:58.399 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-09 13:06:00.883 [main] Stepdef - url open
+[WARN ] 2024-03-09 13:06:00.908 [main] Stepdef - Test passed: HomeAddToCart feature :Page Title matched.
+[INFO ] 2024-03-09 13:06:01.329 [main] Stepdef - browser closed
+[INFO ] 2024-03-09 13:06:02.700 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-09 13:06:02.704 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-09 13:06:05.563 [main] Stepdef - url open
+[INFO ] 2024-03-09 13:06:06.759 [main] Stepdef - Clicked on search btn
+[INFO ] 2024-03-09 13:06:09.292 [main] Stepdef - Enter Laptop text and clicked
+[WARN ] 2024-03-09 13:06:10.396 [main] Stepdef - Product name matched
+[INFO ] 2024-03-09 13:06:13.077 [main] Stepdef - Clicked on Product
+[WARN ] 2024-03-09 13:06:15.151 [main] Stepdef - Product name on add to cart page matched
+[INFO ] 2024-03-09 13:06:16.365 [main] Stepdef - Add to cart btn clicked
+[WARN ] 2024-03-09 13:06:18.439 [main] Stepdef - Item added to cart alert match
+[INFO ] 2024-03-09 13:18:27.262 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-09 13:18:27.335 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-09 13:18:30.083 [main] Stepdef - url open
+[WARN ] 2024-03-09 13:18:30.111 [main] Stepdef - Test passed: HomeAddToCart feature :Page Title matched.
+[INFO ] 2024-03-09 13:18:30.663 [main] Stepdef - browser closed
+[INFO ] 2024-03-09 13:18:32.148 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-09 13:18:32.151 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-09 13:18:34.985 [main] Stepdef - url open
+[INFO ] 2024-03-09 13:18:36.202 [main] Stepdef - Clicked on search btn
+[INFO ] 2024-03-09 13:18:38.820 [main] Stepdef - Enter Laptop text and clicked
+[WARN ] 2024-03-09 13:18:39.920 [main] Stepdef - Product name matched
+[INFO ] 2024-03-09 13:18:41.409 [main] Stepdef - Clicked on Product
+[WARN ] 2024-03-09 13:18:43.606 [main] Stepdef - Product name matched  on add to cart page not matched.
+[INFO ] 2024-03-09 13:20:53.114 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-09 13:20:53.194 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-09 13:20:56.457 [main] Stepdef - url open
+[WARN ] 2024-03-09 13:20:56.483 [main] Stepdef - Test passed: HomeAddToCart feature :Page Title matched.
+[INFO ] 2024-03-09 13:20:56.958 [main] Stepdef - browser closed
+[INFO ] 2024-03-09 13:20:58.515 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-09 13:20:58.517 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-09 13:21:01.224 [main] Stepdef - url open
+[INFO ] 2024-03-09 13:21:02.440 [main] Stepdef - Clicked on search btn
+[INFO ] 2024-03-09 13:21:04.761 [main] Stepdef - Enter Laptop text and clicked
+[WARN ] 2024-03-09 13:21:05.863 [main] Stepdef - Product name matched
+[INFO ] 2024-03-09 13:21:07.346 [main] Stepdef - Clicked on Product
+[INFO ] 2024-03-09 13:21:09.546 [main] Stepdef - Add to cart btn clicked
+[WARN ] 2024-03-09 13:21:11.625 [main] Stepdef - Item added to cart alert match
+[WARN ] 2024-03-09 13:21:13.715 [main] Stepdef - Checkout page name matched
+[INFO ] 2024-03-09 13:21:14.355 [main] Stepdef - browser closed
+[INFO ] 2024-03-09 13:25:58.465 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-09 13:25:58.557 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-09 13:26:00.836 [main] Stepdef - url open
+[WARN ] 2024-03-09 13:26:00.864 [main] Stepdef - Test passed: HomeAddToCart feature :Page Title matched.
+[INFO ] 2024-03-09 13:26:01.296 [main] Stepdef - browser closed
+[INFO ] 2024-03-09 13:26:02.714 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-09 13:26:02.719 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-09 13:26:05.640 [main] Stepdef - url open
+[INFO ] 2024-03-09 13:26:06.851 [main] Stepdef - Clicked on search btn
+[INFO ] 2024-03-09 13:26:09.113 [main] Stepdef - Enter Laptop text and clicked
+[WARN ] 2024-03-09 13:26:10.198 [main] Stepdef - Product name matched
+[INFO ] 2024-03-09 13:26:11.717 [main] Stepdef - Clicked on Product
+[INFO ] 2024-03-09 13:26:13.933 [main] Stepdef - Add to cart btn clicked
+[WARN ] 2024-03-09 13:26:16.016 [main] Stepdef - Item added to cart alert match
+[WARN ] 2024-03-09 13:26:18.191 [main] Stepdef - Checkout page name not matched
+[INFO ] 2024-03-09 13:30:37.232 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-09 13:30:37.304 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-09 13:30:40.165 [main] Stepdef - url open
+[WARN ] 2024-03-09 13:30:40.190 [main] Stepdef - Test passed: HomeAddToCart feature :Page Title matched.
+[INFO ] 2024-03-09 13:30:40.615 [main] Stepdef - browser closed
+[INFO ] 2024-03-09 13:30:42.097 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-09 13:30:42.099 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-09 13:30:44.065 [main] Stepdef - url open
+[INFO ] 2024-03-09 13:30:45.259 [main] Stepdef - Clicked on search btn
+[INFO ] 2024-03-09 13:30:47.446 [main] Stepdef - Enter Laptop text and clicked
+[WARN ] 2024-03-09 13:30:48.546 [main] Stepdef - Product name matched
+[INFO ] 2024-03-09 13:30:50.264 [main] Stepdef - Clicked on Product
+[INFO ] 2024-03-09 13:30:52.475 [main] Stepdef - Add to cart btn clicked
+[WARN ] 2024-03-09 13:30:54.554 [main] Stepdef - Item added to cart alert match
+[WARN ] 2024-03-09 13:30:56.747 [main] Stepdef - Checkout page name matched
+[INFO ] 2024-03-09 13:30:57.351 [main] Stepdef - browser closed
+[INFO ] 2024-03-09 13:32:44.592 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-09 13:32:44.700 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-09 13:32:48.187 [main] Stepdef - url open
+[WARN ] 2024-03-09 13:32:48.215 [main] Stepdef - Test passed: HomeAddToCart feature :Page Title not matched.
+[INFO ] 2024-03-09 13:32:50.446 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-09 13:32:50.449 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-09 13:32:53.631 [main] Stepdef - url open
+[INFO ] 2024-03-09 13:32:54.845 [main] Stepdef - Clicked on search btn
+[INFO ] 2024-03-09 13:32:57.171 [main] Stepdef - Enter Laptop text and clicked
+[WARN ] 2024-03-09 13:32:58.264 [main] Stepdef - Product name matched
+[INFO ] 2024-03-09 13:32:59.945 [main] Stepdef - Clicked on Product
+[INFO ] 2024-03-09 13:33:02.149 [main] Stepdef - Add to cart btn clicked
+[WARN ] 2024-03-09 13:33:04.234 [main] Stepdef - Item added to cart alert match
+[WARN ] 2024-03-09 13:33:06.259 [main] Stepdef - Checkout page name not matched
+[INFO ] 2024-03-09 13:36:27.906 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-09 13:36:27.998 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-09 13:36:30.353 [main] Stepdef - url open
+[WARN ] 2024-03-09 13:36:30.385 [main] Stepdef - Test passed: HomeAddToCart feature :Page Title not matched.
+[INFO ] 2024-03-09 13:36:33.215 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-09 13:36:33.219 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-09 13:36:35.316 [main] Stepdef - url open
+[INFO ] 2024-03-09 13:36:36.459 [main] Stepdef - Clicked on search btn
+[INFO ] 2024-03-09 13:36:38.769 [main] Stepdef - Enter Laptop text and clicked
+[WARN ] 2024-03-09 13:36:39.887 [main] Stepdef - Product name matched
+[INFO ] 2024-03-09 13:36:41.167 [main] Stepdef - Clicked on Product
+[INFO ] 2024-03-09 13:36:43.340 [main] Stepdef - Add to cart btn clicked
+[WARN ] 2024-03-09 13:36:45.410 [main] Stepdef - Item added to cart alert match
+[WARN ] 2024-03-09 13:36:47.549 [main] Stepdef - Checkout page name not matched
+[INFO ] 2024-03-09 13:40:21.730 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-09 13:40:21.818 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-09 13:40:24.185 [main] Stepdef - url open
+[WARN ] 2024-03-09 13:40:24.214 [main] Stepdef - Test passed: HomeAddToCart feature :Page Title matched.
+[INFO ] 2024-03-09 13:40:24.805 [main] Stepdef - browser closed
+[INFO ] 2024-03-09 13:40:26.330 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-09 13:40:26.336 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-09 13:40:28.312 [main] Stepdef - url open
+[INFO ] 2024-03-09 13:40:29.494 [main] Stepdef - Clicked on search btn
+[INFO ] 2024-03-09 13:40:31.697 [main] Stepdef - Enter Laptop text and clicked
+[WARN ] 2024-03-09 13:40:32.795 [main] Stepdef - Product name matched
+[INFO ] 2024-03-09 13:40:34.043 [main] Stepdef - Clicked on Product
+[INFO ] 2024-03-09 13:40:36.274 [main] Stepdef - Add to cart btn clicked
+[WARN ] 2024-03-09 13:40:38.354 [main] Stepdef - Item added to cart alert match
+[WARN ] 2024-03-09 13:40:40.313 [main] Stepdef - Checkout page name matched
+[INFO ] 2024-03-09 13:40:40.903 [main] Stepdef - browser closed
+[INFO ] 2024-03-09 13:40:42.542 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-09 13:40:42.543 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-09 13:40:44.704 [main] Stepdef - url open
+[INFO ] 2024-03-09 13:40:45.375 [main] Stepdef - enter email and password
+[INFO ] 2024-03-09 13:40:48.273 [main] Stepdef - Clicked on SignIn Button
+[WARN ] 2024-03-09 13:40:48.524 [main] Stepdef - Test passed: Login feature :Page Link text matched.
+[INFO ] 2024-03-09 13:40:48.973 [main] Stepdef - browser closed
+[INFO ] 2024-03-09 13:59:25.802 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-09 13:59:25.891 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-09 13:59:28.894 [main] Stepdef - url open
+[INFO ] 2024-03-09 14:08:40.421 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-09 14:08:40.499 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-09 14:08:44.352 [main] Stepdef - url open
+[INFO ] 2024-03-09 14:08:46.140 [main] Stepdef - browser closed
+[INFO ] 2024-03-09 14:09:39.137 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-09 14:09:39.206 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-09 14:09:41.325 [main] Stepdef - url open
+[INFO ] 2024-03-09 14:11:11.543 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-09 14:11:11.627 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-09 14:11:14.593 [main] Stepdef - url open
+[WARN ] 2024-03-09 14:11:14.618 [main] Stepdef - Test passed: HomeAddToCart feature :Page Title matched.
+[INFO ] 2024-03-09 14:11:15.017 [main] Stepdef - browser closed
+[INFO ] 2024-03-09 14:11:16.600 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-09 14:11:16.605 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-09 14:11:19.237 [main] Stepdef - url open
+[INFO ] 2024-03-09 14:11:20.453 [main] Stepdef - Clicked on search btn
+[INFO ] 2024-03-09 14:11:23.080 [main] Stepdef - Enter Laptop text and clicked
+[WARN ] 2024-03-09 14:11:24.182 [main] Stepdef - Product name matched
+[INFO ] 2024-03-09 14:11:25.999 [main] Stepdef - Clicked on Product
+[INFO ] 2024-03-09 14:11:28.210 [main] Stepdef - Add to cart btn clicked
+[WARN ] 2024-03-09 14:11:30.281 [main] Stepdef - Item added to cart alert match
+[WARN ] 2024-03-09 14:11:32.428 [main] Stepdef - Checkout page name matched
+[INFO ] 2024-03-09 14:11:33.019 [main] Stepdef - browser closed
+[INFO ] 2024-03-09 14:11:34.486 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-09 14:11:34.487 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-09 14:11:37.288 [main] Stepdef - url open
+[INFO ] 2024-03-09 14:13:26.831 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-09 14:13:26.916 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-09 14:13:30.662 [main] Stepdef - url open
+[WARN ] 2024-03-09 14:13:30.694 [main] Stepdef - Test passed: HomeAddToCart feature :Page Title matched.
+[INFO ] 2024-03-09 14:13:31.093 [main] Stepdef - browser closed
+[INFO ] 2024-03-09 14:13:32.583 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-09 14:13:32.589 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-09 14:13:35.752 [main] Stepdef - url open
+[INFO ] 2024-03-09 14:13:36.965 [main] Stepdef - Clicked on search btn
+[INFO ] 2024-03-09 14:13:39.394 [main] Stepdef - Enter Laptop text and clicked
+[WARN ] 2024-03-09 14:13:40.456 [main] Stepdef - Product name matched
+[INFO ] 2024-03-09 14:13:42.038 [main] Stepdef - Clicked on Product
+[INFO ] 2024-03-09 14:13:44.237 [main] Stepdef - Add to cart btn clicked
+[WARN ] 2024-03-09 14:13:46.303 [main] Stepdef - Item added to cart alert match
+[WARN ] 2024-03-09 14:13:48.301 [main] Stepdef - Checkout page name matched
+[INFO ] 2024-03-09 14:13:48.907 [main] Stepdef - browser closed
+[INFO ] 2024-03-09 14:13:50.432 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-09 14:13:50.434 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-09 14:13:53.419 [main] Stepdef - url open
+[INFO ] 2024-03-09 14:13:53.909 [main] Stepdef - enter email and password
+[INFO ] 2024-03-09 14:13:57.734 [main] Stepdef - Clicked on SignIn Button
+[WARN ] 2024-03-09 14:13:57.866 [main] Stepdef - Test passed: Login feature :Page Link text matched.
+[INFO ] 2024-03-09 14:13:58.323 [main] Stepdef - browser closed
+[INFO ] 2024-03-09 14:13:59.806 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-09 14:13:59.808 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-09 14:14:03.646 [main] Stepdef - url open
+[INFO ] 2024-03-09 14:16:25.380 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-09 14:16:25.460 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-09 14:16:27.886 [main] Stepdef - url open
+[INFO ] 2024-03-09 14:16:28.417 [main] Stepdef - enter email and password
+[INFO ] 2024-03-09 14:16:31.940 [main] Stepdef - Clicked on SignIn Button
+[WARN ] 2024-03-09 14:16:32.045 [main] Stepdef - Test passed: Login feature :Page Link text matched.
+[INFO ] 2024-03-09 14:19:30.652 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-09 14:19:30.730 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-09 14:19:32.908 [main] Stepdef - url open
+[INFO ] 2024-03-09 14:19:33.468 [main] Stepdef - enter email and password
+[INFO ] 2024-03-09 14:19:36.180 [main] Stepdef - Clicked on SignIn Button
+[WARN ] 2024-03-09 14:19:36.256 [main] Stepdef - Test passed: Login feature :Page Link text matched.
+[INFO ] 2024-03-09 14:19:37.467 [main] Stepdef - Clicked on search btn
+[INFO ] 2024-03-09 14:19:39.901 [main] Stepdef - Enter Laptop text and clicked
+[WARN ] 2024-03-09 14:19:40.978 [main] Stepdef - Product name matched
+[INFO ] 2024-03-09 14:19:43.281 [main] Stepdef - Clicked on Product
+[INFO ] 2024-03-09 14:19:45.486 [main] Stepdef - Add to cart btn clicked
+[WARN ] 2024-03-09 14:19:47.558 [main] Stepdef - Item added to cart alert match
+[INFO ] 2024-03-09 14:24:43.754 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-09 14:24:43.823 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-09 14:24:47.353 [main] Stepdef - url open
+[INFO ] 2024-03-09 14:24:47.940 [main] Stepdef - enter email and password
+[INFO ] 2024-03-09 14:24:51.735 [main] Stepdef - Clicked on SignIn Button
+[WARN ] 2024-03-09 14:24:51.987 [main] Stepdef - Test passed: Login feature :Page Link text matched.
+[INFO ] 2024-03-09 14:24:53.252 [main] Stepdef - Clicked on search btn
+[INFO ] 2024-03-09 14:24:55.756 [main] Stepdef - Enter Laptop text and clicked
+[WARN ] 2024-03-09 14:24:56.827 [main] Stepdef - Product name matched
+[INFO ] 2024-03-09 14:24:58.840 [main] Stepdef - Clicked on Product
+[INFO ] 2024-03-09 14:25:01.012 [main] Stepdef - Add to cart btn clicked
+[WARN ] 2024-03-09 14:25:03.100 [main] Stepdef - Item added to cart alert match
+[INFO ] 2024-03-09 14:30:10.903 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-09 14:30:10.928 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-09 14:30:12.729 [main] Stepdef - url open
+[INFO ] 2024-03-09 14:30:12.956 [main] Stepdef - enter email and password
+[INFO ] 2024-03-09 14:30:14.979 [main] Stepdef - Clicked on SignIn Button
+[WARN ] 2024-03-09 14:30:15.031 [main] Stepdef - Test passed: Login feature :Page Link text matched.
+[INFO ] 2024-03-09 14:30:16.105 [main] Stepdef - Clicked on search btn
+[INFO ] 2024-03-09 14:30:18.176 [main] Stepdef - Enter Laptop text and clicked
+[WARN ] 2024-03-09 14:30:19.216 [main] Stepdef - Product name matched
+[INFO ] 2024-03-09 14:30:20.700 [main] Stepdef - Clicked on Product
+[INFO ] 2024-03-09 14:30:22.783 [main] Stepdef - Add to cart btn clicked
+[WARN ] 2024-03-09 14:30:24.810 [main] Stepdef - Item added to cart alert match
+[WARN ] 2024-03-09 14:30:26.820 [main] Stepdef - Checkout page name matched
+[INFO ] 2024-03-09 14:32:52.238 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-09 14:32:52.266 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-09 14:32:54.068 [main] Stepdef - url open
+[INFO ] 2024-03-09 14:32:54.308 [main] Stepdef - enter email and password
+[INFO ] 2024-03-09 14:32:56.326 [main] Stepdef - Clicked on SignIn Button
+[WARN ] 2024-03-09 14:32:56.391 [main] Stepdef - Test passed: Login feature :Page Link text matched.
+[INFO ] 2024-03-09 14:32:57.464 [main] Stepdef - Clicked on search btn
+[INFO ] 2024-03-09 14:32:59.549 [main] Stepdef - Enter Laptop text and clicked
+[WARN ] 2024-03-09 14:33:00.579 [main] Stepdef - Product name matched
+[INFO ] 2024-03-09 14:33:01.877 [main] Stepdef - Clicked on Product
+[INFO ] 2024-03-09 14:33:03.970 [main] Stepdef - Add to cart btn clicked
+[WARN ] 2024-03-09 14:33:06.004 [main] Stepdef - Item added to cart alert match
+[WARN ] 2024-03-09 14:33:08.099 [main] Stepdef - Checkout page name matched
+[WARN ] 2024-03-09 14:33:09.930 [main] Stepdef - Test passed: Checkout :Page Title matched.
+[INFO ] 2024-03-09 14:44:10.607 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-09 14:44:10.629 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-09 14:44:13.221 [main] Stepdef - url open
+[INFO ] 2024-03-09 14:44:13.377 [main] Stepdef - enter email and password
+[INFO ] 2024-03-09 14:44:16.383 [main] Stepdef - Clicked on SignIn Button
+[WARN ] 2024-03-09 14:44:16.423 [main] Stepdef - Test passed: Login feature :Page Link text matched.
+[INFO ] 2024-03-09 14:44:17.479 [main] Stepdef - Clicked on search btn
+[INFO ] 2024-03-09 14:44:19.773 [main] Stepdef - Enter Laptop text and clicked
+[WARN ] 2024-03-09 14:44:20.830 [main] Stepdef - Product name matched
+[INFO ] 2024-03-09 14:44:22.660 [main] Stepdef - Clicked on Product
+[INFO ] 2024-03-09 14:44:24.757 [main] Stepdef - Add to cart btn clicked
+[WARN ] 2024-03-09 14:44:26.814 [main] Stepdef - Item added to cart alert match
+[WARN ] 2024-03-09 14:44:30.577 [main] Stepdef - Checkout page name matched
+[WARN ] 2024-03-09 14:44:32.408 [main] Stepdef - Test passed: Checkout :Page Title matched.
+[INFO ] 2024-03-09 14:44:32.748 [main] Stepdef - browser closed
+[INFO ] 2024-03-09 14:44:33.610 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-09 14:44:33.612 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-09 14:44:36.613 [main] Stepdef - url open
+[INFO ] 2024-03-09 14:44:36.761 [main] Stepdef - enter email and password
+[INFO ] 2024-03-09 14:44:39.578 [main] Stepdef - Clicked on SignIn Button
+[WARN ] 2024-03-09 14:44:39.629 [main] Stepdef - Test passed: Login feature :Page Link text matched.
+[INFO ] 2024-03-09 14:44:40.693 [main] Stepdef - Clicked on search btn
+[INFO ] 2024-03-09 14:44:42.740 [main] Stepdef - Enter Laptop text and clicked
+[WARN ] 2024-03-09 14:44:43.770 [main] Stepdef - Product name matched
+[INFO ] 2024-03-09 14:44:47.130 [main] Stepdef - Clicked on Product
+[INFO ] 2024-03-09 14:44:49.227 [main] Stepdef - Add to cart btn clicked
+[WARN ] 2024-03-09 14:44:51.265 [main] Stepdef - Item added to cart alert match
+[INFO ] 2024-03-09 14:49:28.863 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-09 14:49:28.885 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-09 14:49:32.791 [main] Stepdef - url open
+[INFO ] 2024-03-09 14:49:32.930 [main] Stepdef - enter email and password
+[INFO ] 2024-03-09 14:49:35.810 [main] Stepdef - Clicked on SignIn Button
+[WARN ] 2024-03-09 14:49:35.850 [main] Stepdef - Test passed: Login feature :Page Link text matched.
+[INFO ] 2024-03-09 14:49:36.914 [main] Stepdef - Clicked on search btn
+[INFO ] 2024-03-09 14:49:39.419 [main] Stepdef - Enter Laptop text and clicked
+[WARN ] 2024-03-09 14:49:40.468 [main] Stepdef - Product name matched
+[INFO ] 2024-03-09 14:49:43.678 [main] Stepdef - Clicked on Product
+[INFO ] 2024-03-09 14:49:45.771 [main] Stepdef - Add to cart btn clicked
+[WARN ] 2024-03-09 14:49:47.798 [main] Stepdef - Item added to cart alert match
+[WARN ] 2024-03-09 14:49:51.223 [main] Stepdef - Checkout page name matched
+[WARN ] 2024-03-09 14:49:53.840 [main] Stepdef - Test passed: Checkout :Page Title matched.
+[INFO ] 2024-03-09 14:49:54.168 [main] Stepdef - browser closed
+[INFO ] 2024-03-09 14:49:55.032 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-09 14:49:55.034 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-09 14:49:57.015 [main] Stepdef - url open
+[INFO ] 2024-03-09 14:49:57.234 [main] Stepdef - enter email and password
+[INFO ] 2024-03-09 14:50:01.090 [main] Stepdef - Clicked on SignIn Button
+[WARN ] 2024-03-09 14:50:01.123 [main] Stepdef - Test passed: Login feature :Page Link text matched.
+[INFO ] 2024-03-09 14:50:02.187 [main] Stepdef - Clicked on search btn
+[INFO ] 2024-03-09 14:50:04.307 [main] Stepdef - Enter Laptop text and clicked
+[WARN ] 2024-03-09 14:50:05.347 [main] Stepdef - Product name matched
+[INFO ] 2024-03-09 14:50:07.605 [main] Stepdef - Clicked on Product
+[INFO ] 2024-03-09 14:50:09.703 [main] Stepdef - Add to cart btn clicked
+[WARN ] 2024-03-09 14:50:11.754 [main] Stepdef - Item added to cart alert match
+[INFO ] 2024-03-09 16:10:27.124 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-09 16:10:27.207 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-09 16:10:29.347 [main] Stepdef - url open
+[INFO ] 2024-03-09 16:10:29.949 [main] Stepdef - enter email and password
+[INFO ] 2024-03-09 16:10:32.355 [main] Stepdef - Clicked on SignIn Button
+[WARN ] 2024-03-09 16:10:32.564 [main] Stepdef - Test passed: Login feature :Page Link text matched.
+[INFO ] 2024-03-09 16:10:33.815 [main] Stepdef - Clicked on search btn
+[INFO ] 2024-03-09 16:10:36.333 [main] Stepdef - Enter Laptop text and clicked
+[WARN ] 2024-03-09 16:10:37.407 [main] Stepdef - Product name matched
+[INFO ] 2024-03-09 16:10:39.386 [main] Stepdef - Clicked on Product
+[INFO ] 2024-03-09 16:10:41.591 [main] Stepdef - Add to cart btn clicked
+[WARN ] 2024-03-09 16:10:43.671 [main] Stepdef - Item added to cart alert match
+[WARN ] 2024-03-09 16:10:46.616 [main] Stepdef - Checkout page name matched
+[WARN ] 2024-03-09 16:10:49.443 [main] Stepdef - Test passed: Checkout :Page Title matched.
+[INFO ] 2024-03-09 16:10:50.243 [main] Stepdef - browser closed
+[INFO ] 2024-03-09 16:10:51.754 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-09 16:10:51.756 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-09 16:10:54.456 [main] Stepdef - url open
+[INFO ] 2024-03-09 16:10:54.939 [main] Stepdef - enter email and password
+[INFO ] 2024-03-09 16:10:57.578 [main] Stepdef - Clicked on SignIn Button
+[WARN ] 2024-03-09 16:10:57.682 [main] Stepdef - Test passed: Login feature :Page Link text matched.
+[INFO ] 2024-03-09 16:10:58.891 [main] Stepdef - Clicked on search btn
+[INFO ] 2024-03-09 16:11:01.135 [main] Stepdef - Enter Laptop text and clicked
+[WARN ] 2024-03-09 16:11:02.208 [main] Stepdef - Product name matched
+[INFO ] 2024-03-09 16:11:03.997 [main] Stepdef - Clicked on Product
+[INFO ] 2024-03-09 16:11:06.190 [main] Stepdef - Add to cart btn clicked
+[WARN ] 2024-03-09 16:11:08.253 [main] Stepdef - Item added to cart alert match
+[INFO ] 2024-03-09 16:23:04.310 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-09 16:23:04.384 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-09 16:23:06.318 [main] Stepdef - url open
+[INFO ] 2024-03-09 16:23:06.648 [main] Stepdef - enter email and password
+[INFO ] 2024-03-09 16:23:09.017 [main] Stepdef - Clicked on SignIn Button
+[WARN ] 2024-03-09 16:23:09.249 [main] Stepdef - Test passed: Login feature :Page Link text matched.
+[INFO ] 2024-03-09 16:23:10.475 [main] Stepdef - Clicked on search btn
+[INFO ] 2024-03-09 16:23:12.595 [main] Stepdef - Enter Laptop text and clicked
+[WARN ] 2024-03-09 16:23:13.679 [main] Stepdef - Product name matched
+[INFO ] 2024-03-09 16:23:15.990 [main] Stepdef - Clicked on Product
+[INFO ] 2024-03-09 16:23:18.193 [main] Stepdef - Add to cart btn clicked
+[WARN ] 2024-03-09 16:23:20.250 [main] Stepdef - Item added to cart alert match
+[INFO ] 2024-03-09 16:30:13.384 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-09 16:30:13.470 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-09 16:30:15.372 [main] Stepdef - url open
+[INFO ] 2024-03-09 16:30:15.974 [main] Stepdef - enter email and password
+[INFO ] 2024-03-09 16:30:18.341 [main] Stepdef - Clicked on SignIn Button
+[WARN ] 2024-03-09 16:30:18.554 [main] Stepdef - Test passed: Login feature :Page Link text matched.
+[INFO ] 2024-03-09 16:30:19.940 [main] Stepdef - Clicked on search btn
+[INFO ] 2024-03-09 16:30:21.782 [main] Stepdef - Enter Laptop text and clicked
+[WARN ] 2024-03-09 16:30:22.867 [main] Stepdef - Product name matched
+[INFO ] 2024-03-09 16:30:24.789 [main] Stepdef - Clicked on Product
+[INFO ] 2024-03-09 16:30:26.996 [main] Stepdef - Add to cart btn clicked
+[WARN ] 2024-03-09 16:30:29.052 [main] Stepdef - Item added to cart alert match
+[INFO ] 2024-03-09 16:37:50.014 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-09 16:37:50.109 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-09 16:37:52.125 [main] Stepdef - url open
+[INFO ] 2024-03-09 16:37:52.516 [main] Stepdef - enter email and password
+[INFO ] 2024-03-09 16:37:54.925 [main] Stepdef - Clicked on SignIn Button
+[WARN ] 2024-03-09 16:37:55.157 [main] Stepdef - Test passed: Login feature :Page Link text matched.
+[INFO ] 2024-03-09 16:37:56.615 [main] Stepdef - Clicked on search btn
+[INFO ] 2024-03-09 16:37:59.043 [main] Stepdef - Enter Laptop text and clicked
+[WARN ] 2024-03-09 16:38:00.115 [main] Stepdef - Product name matched
+[INFO ] 2024-03-09 16:38:02.110 [main] Stepdef - Clicked on Product
+[INFO ] 2024-03-09 16:38:04.304 [main] Stepdef - Add to cart btn clicked
+[WARN ] 2024-03-09 16:38:06.367 [main] Stepdef - Item added to cart alert match
+[INFO ] 2024-03-09 16:39:28.403 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-09 16:39:28.472 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-09 16:39:30.379 [main] Stepdef - url open
+[INFO ] 2024-03-09 16:39:31.005 [main] Stepdef - enter email and password
+[INFO ] 2024-03-09 16:39:33.292 [main] Stepdef - Clicked on SignIn Button
+[WARN ] 2024-03-09 16:39:33.399 [main] Stepdef - Test passed: Login feature :Page Link text matched.
+[INFO ] 2024-03-09 16:39:34.662 [main] Stepdef - Clicked on search btn
+[INFO ] 2024-03-09 16:39:37.016 [main] Stepdef - Enter Laptop text and clicked
+[WARN ] 2024-03-09 16:39:38.105 [main] Stepdef - Product name matched
+[INFO ] 2024-03-09 16:39:39.727 [main] Stepdef - Clicked on Product
+[INFO ] 2024-03-09 16:39:41.931 [main] Stepdef - Add to cart btn clicked
+[WARN ] 2024-03-09 16:39:44.002 [main] Stepdef - Item added to cart alert match
+[INFO ] 2024-03-11 20:30:50.774 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-11 20:30:50.881 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-11 20:30:52.549 [main] Stepdef - url open
+[WARN ] 2024-03-11 20:30:52.563 [main] Stepdef - Test passed: HomeAddToCart feature :Page Title matched.
+[INFO ] 2024-03-11 20:30:53.003 [main] Stepdef - browser closed
+[INFO ] 2024-03-11 20:30:54.596 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-11 20:30:54.600 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-11 20:30:56.114 [main] Stepdef - url open
+[INFO ] 2024-03-11 20:30:57.262 [main] Stepdef - Clicked on search btn
+[INFO ] 2024-03-11 20:30:59.536 [main] Stepdef - Enter Laptop text and clicked
+[WARN ] 2024-03-11 20:31:00.642 [main] Stepdef - Product name matched
+[INFO ] 2024-03-11 20:31:02.487 [main] Stepdef - Clicked on Product
+[INFO ] 2024-03-11 20:31:04.700 [main] Stepdef - Add to cart btn clicked
+[WARN ] 2024-03-11 20:31:06.780 [main] Stepdef - Item added to cart alert match
+[WARN ] 2024-03-11 20:31:08.806 [main] Stepdef - Checkout page name matched
+[INFO ] 2024-03-11 20:31:09.950 [main] Stepdef - browser closed
+[INFO ] 2024-03-11 20:31:11.425 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-11 20:31:11.429 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-11 20:31:14.437 [main] Stepdef - url open
+[INFO ] 2024-03-11 20:31:14.982 [main] Stepdef - enter email and password
+[INFO ] 2024-03-11 20:31:17.436 [main] Stepdef - Clicked on SignIn Button
+[WARN ] 2024-03-11 20:31:17.552 [main] Stepdef - Test passed: Login feature :Page Link text matched.
+[INFO ] 2024-03-11 20:31:17.956 [main] Stepdef - browser closed
+[INFO ] 2024-03-11 20:31:19.388 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-11 20:31:19.391 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-11 20:31:21.277 [main] Stepdef - url open
+[INFO ] 2024-03-11 20:31:21.828 [main] Stepdef - enter email and password
+[INFO ] 2024-03-11 20:31:24.261 [main] Stepdef - Clicked on SignIn Button
+[WARN ] 2024-03-11 20:31:24.365 [main] Stepdef - Test passed: Login feature :Page Link text matched.
+[INFO ] 2024-03-11 20:31:25.533 [main] Stepdef - Clicked on search btn
+[INFO ] 2024-03-11 20:31:28.167 [main] Stepdef - Enter Laptop text and clicked
+[WARN ] 2024-03-11 20:31:29.252 [main] Stepdef - Product name matched
+[INFO ] 2024-03-11 20:31:31.148 [main] Stepdef - Clicked on Product
+[INFO ] 2024-03-11 20:31:33.256 [main] Stepdef - Add to cart btn clicked
+[WARN ] 2024-03-11 20:31:35.318 [main] Stepdef - Item added to cart alert match
+[WARN ] 2024-03-11 20:31:38.515 [main] Stepdef - Checkout page name matched
+[WARN ] 2024-03-11 20:31:41.636 [main] Stepdef - Test passed: Checkout :Page Title matched.
+[INFO ] 2024-03-11 20:31:42.275 [main] Stepdef - browser closed
+[INFO ] 2024-03-11 20:31:43.711 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-11 20:31:43.713 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-11 20:31:45.699 [main] Stepdef - url open
+[INFO ] 2024-03-11 20:31:46.230 [main] Stepdef - enter email and password
+[INFO ] 2024-03-11 20:31:48.606 [main] Stepdef - Clicked on SignIn Button
+[WARN ] 2024-03-11 20:31:48.825 [main] Stepdef - Test passed: Login feature :Page Link text matched.
+[INFO ] 2024-03-11 20:31:50.260 [main] Stepdef - Clicked on search btn
+[INFO ] 2024-03-11 20:31:52.503 [main] Stepdef - Enter Laptop text and clicked
+[WARN ] 2024-03-11 20:31:53.567 [main] Stepdef - Product name matched
+[INFO ] 2024-03-11 20:31:55.275 [main] Stepdef - Clicked on Product
+[INFO ] 2024-03-11 20:31:57.471 [main] Stepdef - Add to cart btn clicked
+[WARN ] 2024-03-11 20:31:59.542 [main] Stepdef - Item added to cart alert match
+[INFO ] 2024-03-11 20:35:43.912 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-11 20:35:43.998 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-11 20:35:45.468 [main] Stepdef - url open
+[WARN ] 2024-03-11 20:35:45.482 [main] Stepdef - Test passed: HomeAddToCart feature :Page Title matched.
+[INFO ] 2024-03-11 20:35:45.931 [main] Stepdef - browser closed
+[INFO ] 2024-03-11 20:35:47.346 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-11 20:35:47.350 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-11 20:35:48.793 [main] Stepdef - url open
+[INFO ] 2024-03-11 20:35:49.906 [main] Stepdef - Clicked on search btn
+[INFO ] 2024-03-11 20:35:52.062 [main] Stepdef - Enter Laptop text and clicked
+[WARN ] 2024-03-11 20:35:53.161 [main] Stepdef - Product name matched
+[INFO ] 2024-03-11 20:35:54.298 [main] Stepdef - Clicked on Product
+[INFO ] 2024-03-11 20:35:56.510 [main] Stepdef - Add to cart btn clicked
+[WARN ] 2024-03-11 20:35:58.587 [main] Stepdef - Item added to cart alert match
+[WARN ] 2024-03-11 20:36:00.511 [main] Stepdef - Checkout page name matched
+[INFO ] 2024-03-11 20:36:01.709 [main] Stepdef - browser closed
+[INFO ] 2024-03-11 20:36:03.091 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-11 20:36:03.094 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-11 20:36:05.109 [main] Stepdef - url open
+[INFO ] 2024-03-11 20:36:05.543 [main] Stepdef - enter email and password
+[INFO ] 2024-03-11 20:36:07.867 [main] Stepdef - Clicked on SignIn Button
+[WARN ] 2024-03-11 20:36:08.118 [main] Stepdef - Test passed: Login feature :Page Link text matched.
+[INFO ] 2024-03-11 20:36:08.567 [main] Stepdef - browser closed
+[INFO ] 2024-03-11 20:36:10.004 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-11 20:36:10.008 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-11 20:36:12.762 [main] Stepdef - url open
+[INFO ] 2024-03-11 20:36:13.319 [main] Stepdef - enter email and password
+[INFO ] 2024-03-11 20:36:15.458 [main] Stepdef - Clicked on SignIn Button
+[WARN ] 2024-03-11 20:36:15.659 [main] Stepdef - Test passed: Login feature :Page Link text matched.
+[INFO ] 2024-03-11 20:36:16.866 [main] Stepdef - Clicked on search btn
+[INFO ] 2024-03-11 20:36:19.228 [main] Stepdef - Enter Laptop text and clicked
+[WARN ] 2024-03-11 20:36:20.299 [main] Stepdef - Product name matched
+[INFO ] 2024-03-11 20:36:22.332 [main] Stepdef - Clicked on Product
+[INFO ] 2024-03-11 20:36:24.538 [main] Stepdef - Add to cart btn clicked
+[WARN ] 2024-03-11 20:36:26.598 [main] Stepdef - Item added to cart alert match
+[WARN ] 2024-03-11 20:36:29.417 [main] Stepdef - Checkout page name matched
+[WARN ] 2024-03-11 20:36:31.942 [main] Stepdef - Test passed: Checkout :Page Title matched.
+[INFO ] 2024-03-11 20:36:32.671 [main] Stepdef - browser closed
+[INFO ] 2024-03-11 20:36:34.099 [main] Stepdef - Setup executed...
+[INFO ] 2024-03-11 20:36:34.101 [main] Stepdef - Browser Launched
+[INFO ] 2024-03-11 20:36:36.475 [main] Stepdef - url open
+[INFO ] 2024-03-11 20:36:36.965 [main] Stepdef - enter email and password
+[INFO ] 2024-03-11 20:36:39.246 [main] Stepdef - Clicked on SignIn Button
+[WARN ] 2024-03-11 20:36:39.448 [main] Stepdef - Test passed: Login feature :Page Link text matched.
+[INFO ] 2024-03-11 20:36:40.813 [main] Stepdef - Clicked on search btn
+[INFO ] 2024-03-11 20:36:43.089 [main] Stepdef - Enter Laptop text and clicked
+[WARN ] 2024-03-11 20:36:44.165 [main] Stepdef - Product name matched
+[INFO ] 2024-03-11 20:36:45.906 [main] Stepdef - Clicked on Product
+[INFO ] 2024-03-11 20:36:48.112 [main] Stepdef - Add to cart btn clicked
+[WARN ] 2024-03-11 20:36:50.172 [main] Stepdef - Item added to cart alert match
+[INFO ] 2024-03-11 20:36:59.237 [main] Stepdef - browser closed
